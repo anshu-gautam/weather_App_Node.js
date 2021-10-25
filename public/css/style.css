@@ -83,3 +83,17 @@ color: ghostwhite;
 text-transform: capitalize;
 
 }
+
+#message-1{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+font-size: xx-large;
+color: ghostwhite;
+font-weight: bold;
+}
+#message-2{
+   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+font-size: xx-large;
+color: ghostwhite;
+font-weight: bold;
+
+}
